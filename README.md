@@ -8,7 +8,7 @@
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
 
-- 🔭 I’m passionate iOS Developer with with strong expertise in building scalable, maintainable apps and keen interest in **Swift & SwiftUI**
+- 🔭 I’m a passionate iOS Developer with with strong expertise in building scalable, maintainable apps and keen interest in **Swift & SwiftUI**
 - 🚀 Currently focusing on **advanced Swift, SwiftUI & system design for mobile apps**
 - 🤖 Exploring the capabilities of AI agents
 
